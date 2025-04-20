@@ -1,0 +1,3 @@
+[submodule "MNIST-Accleration"]
+	path = MNIST-Accleration
+	url = https://github.com/MNIST-Acceleration/MNIST-Accleration
